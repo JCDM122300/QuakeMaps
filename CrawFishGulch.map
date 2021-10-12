@@ -89,7 +89,7 @@
 }
 // entity 1
 {
-"classname" "info_player_start"
-"origin" "576 192 24"
+"classname" "info_player_deathmatch"
+"origin" "608 176 40"
 "angle" "90"
 }
