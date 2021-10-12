@@ -682,7 +682,6 @@
 // entity 15
 {
 "classname" "trigger_teleport"
-"target" "tele1"
 // brush 0
 {
 ( 928 0 0 ) ( 928 1 0 ) ( 928 0 1 ) 128_blood_1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -696,7 +695,6 @@
 // entity 16
 {
 "classname" "trigger_teleport"
-"target" "tele2"
 // brush 0
 {
 ( 516 1088 528 ) ( 516 1089 528 ) ( 516 1088 529 ) 128_blood_1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -706,18 +704,4 @@
 ( 640 1100 532 ) ( 641 1100 532 ) ( 640 1100 533 ) 128_blood_1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 640 1100 532 ) ( 640 1100 533 ) ( 640 1101 532 ) 128_blood_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
-}
-// entity 17
-{
-"classname" "info_teleport_destination"
-"origin" "580 1052 560"
-"angle" "270"
-"targetname" "tele1"
-}
-// entity 18
-{
-"classname" "info_teleport_destination"
-"origin" "988 44 20"
-"angle" "90"
-"targetname" "tele2"
 }
