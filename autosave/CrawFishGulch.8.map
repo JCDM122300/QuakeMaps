@@ -6,6 +6,7 @@
 "classname" "worldspawn"
 "wad" "C:/QuakeDev/wads/prototype_1_3.wad"
 "_wateralpha" ".5"
+"property 1" ""
 // brush 0
 {
 ( 0 0 1232 ) ( 0 1 1232 ) ( 0 0 1233 ) 32_blue_1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1

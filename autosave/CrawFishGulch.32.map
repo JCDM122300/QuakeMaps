@@ -1494,6 +1494,24 @@
 ( 1192 1720 536 ) ( 1193 1720 536 ) ( 1192 1720 537 ) 128_grey_1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( 1192 1720 536 ) ( 1192 1720 537 ) ( 1192 1721 536 ) 128_grey_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
+// brush 161
+{
+( 272 1352 528 ) ( 272 1353 528 ) ( 272 1352 529 ) 128_grey_2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 272 1352 528 ) ( 272 1352 529 ) ( 273 1352 528 ) 128_grey_2 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 272 1352 528 ) ( 273 1352 528 ) ( 272 1353 528 ) 128_grey_2 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 384 1472 672 ) ( 384 1473 672 ) ( 385 1472 672 ) 128_grey_2 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 384 1472 536 ) ( 385 1472 536 ) ( 384 1472 537 ) 128_grey_2 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 384 1472 536 ) ( 384 1472 537 ) ( 384 1473 536 ) 128_grey_2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+// brush 162
+{
+( 1016 1352 528 ) ( 1016 1353 528 ) ( 1016 1352 529 ) 128_grey_2 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 1016 1352 528 ) ( 1016 1352 529 ) ( 1017 1352 528 ) 128_grey_2 [ 1 0 0 -104 ] [ 0 0 -1 0 ] 0 1 1
+( 1016 1352 528 ) ( 1017 1352 528 ) ( 1016 1353 528 ) 128_grey_2 [ -1 0 0 104 ] [ 0 -1 0 0 ] 0 1 1
+( 1128 1472 672 ) ( 1128 1473 672 ) ( 1129 1472 672 ) 128_grey_2 [ 1 0 0 -104 ] [ 0 -1 0 0 ] 0 1 1
+( 1128 1472 536 ) ( 1129 1472 536 ) ( 1128 1472 537 ) 128_grey_2 [ -1 0 0 104 ] [ 0 0 -1 0 ] 0 1 1
+( 1128 1472 536 ) ( 1128 1472 537 ) ( 1128 1473 536 ) 128_grey_2 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
 }
 // entity 1
 {
@@ -2381,63 +2399,73 @@
 // entity 117
 {
 "classname" "item_shells"
-"origin" "936 1736 801"
+"origin" "936 1968 801"
 }
 // entity 118
 {
 "classname" "item_shells"
-"origin" "936 1848 801"
-}
-// entity 119
-{
-"classname" "item_shells"
-"origin" "936 1968 801"
-}
-// entity 120
-{
-"classname" "item_shells"
 "origin" "936 2088 801"
 }
-// entity 121
+// entity 119
 {
 "classname" "item_cells"
 "origin" "400 2072 793"
 }
-// entity 122
+// entity 120
 {
 "classname" "item_cells"
 "origin" "400 2128 793"
 }
-// entity 123
+// entity 121
 {
 "classname" "weapon_rocketlauncher"
 "origin" "432 1928 801"
 }
-// entity 124
+// entity 122
 {
 "classname" "item_rockets"
 "origin" "400 1688 793"
 }
-// entity 125
+// entity 123
 {
 "classname" "item_rockets"
 "origin" "392 1752 793"
 }
-// entity 126
+// entity 124
 {
 "classname" "weapon_grenadelauncher"
 "origin" "736 1152 720"
 "angle" "90"
 }
-// entity 127
+// entity 125
 {
 "classname" "item_armor1"
 "origin" "864 1304 680"
 "angle" "90"
 }
-// entity 128
+// entity 126
 {
 "classname" "item_armor1"
 "origin" "568 1304 680"
 "angle" "90"
+}
+// entity 127
+{
+"classname" "item_shells"
+"origin" "1104 1128 544"
+}
+// entity 128
+{
+"classname" "item_rockets"
+"origin" "288 1112 536"
+}
+// entity 129
+{
+"classname" "item_spikes"
+"origin" "925 1808 804"
+}
+// entity 130
+{
+"classname" "item_spikes"
+"origin" "925 1680 804"
 }
