@@ -2365,3 +2365,9 @@
 ( 1024 16 2 ) ( 1024 16 3 ) ( 1024 17 2 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
+// entity 122
+{
+"classname" "light_flame_large_yellow"
+"origin" "661 2057 638"
+"angle" "270"
+}

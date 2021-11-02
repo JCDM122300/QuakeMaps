@@ -2371,3 +2371,34 @@
 "origin" "661 2057 638"
 "angle" "270"
 }
+// entity 123
+{
+"classname" "light_flame_large_yellow"
+"origin" "664 1969 638"
+}
+// entity 124
+{
+"classname" "light"
+"origin" "615 2382 371"
+"angle" "270"
+}
+// entity 125
+{
+"classname" "light_torch_small_walltorch"
+"origin" "113 1806 221"
+}
+// entity 126
+{
+"classname" "light_torch_small_walltorch"
+"origin" "113 1678 221"
+}
+// entity 127
+{
+"classname" "light_flame_large_yellow"
+"origin" "731 2693 226"
+}
+// entity 128
+{
+"classname" "light"
+"origin" "611 2566 371"
+}

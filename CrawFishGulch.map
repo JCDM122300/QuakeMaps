@@ -2261,6 +2261,7 @@
 {
 "classname" "item_health"
 "origin" "400 1144 720"
+"spawnflags" "2"
 }
 // entity 102
 {
@@ -3112,9 +3113,4 @@
 {
 "classname" "light"
 "origin" "137 990 120"
-}
-// entity 258
-{
-"classname" "event_lightning"
-"origin" "216 832 8"
 }

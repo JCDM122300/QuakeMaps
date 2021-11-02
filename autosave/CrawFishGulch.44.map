@@ -2379,7 +2379,7 @@
 // entity 124
 {
 "classname" "light"
-"origin" "615 2382 371"
+"origin" "615 2238 371"
 "angle" "270"
 }
 // entity 125
@@ -2563,7 +2563,7 @@
 // entity 156
 {
 "classname" "light"
-"origin" "552 102 120"
+"origin" "552 519 120"
 }
 // entity 157
 {
@@ -2670,4 +2670,39 @@
 {
 "classname" "light_torch_small_walltorch"
 "origin" "899 468 192"
+}
+// entity 178
+{
+"classname" "light_torch_small_walltorch"
+"origin" "732 412 192"
+}
+// entity 179
+{
+"classname" "light_torch_small_walltorch"
+"origin" "18 1283 59"
+}
+// entity 180
+{
+"classname" "light_torch_small_walltorch"
+"origin" "18 1560 59"
+}
+// entity 181
+{
+"classname" "light"
+"origin" "173 102 120"
+}
+// entity 182
+{
+"classname" "light"
+"origin" "265 734 120"
+}
+// entity 183
+{
+"classname" "light"
+"origin" "852 732 120"
+}
+// entity 184
+{
+"classname" "light"
+"origin" "552 316 120"
 }
