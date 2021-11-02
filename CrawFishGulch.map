@@ -3648,3 +3648,13 @@
 "origin" "215 1860 323"
 "angle" "270"
 }
+// entity 354
+{
+"classname" "light"
+"origin" "696 2823 -296"
+}
+// entity 355
+{
+"classname" "light"
+"origin" "520 2823 -296"
+}
