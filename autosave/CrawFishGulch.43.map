@@ -2735,3 +2735,282 @@
 "classname" "light_torch_small_walltorch"
 "origin" "885 1486 31"
 }
+// entity 189
+{
+"classname" "light_torch_small_walltorch"
+"origin" "301 1283 59"
+}
+// entity 190
+{
+"classname" "light"
+"origin" "391 2084 195"
+"angle" "270"
+}
+// entity 191
+{
+"classname" "light"
+"origin" "391 2244 195"
+"angle" "270"
+}
+// entity 192
+{
+"classname" "light"
+"origin" "183 2244 195"
+"angle" "270"
+}
+// entity 193
+{
+"classname" "light"
+"origin" "215 1956 67"
+"angle" "270"
+}
+// entity 194
+{
+"classname" "light"
+"origin" "151 2612 195"
+"angle" "270"
+}
+// entity 195
+{
+"classname" "light"
+"origin" "135 2692 115"
+"angle" "270"
+}
+// entity 196
+{
+"classname" "light"
+"origin" "583 2756 195"
+"angle" "270"
+}
+// entity 197
+{
+"classname" "light_torch_small_walltorch"
+"origin" "114 1836 35"
+}
+// entity 198
+{
+"classname" "light_torch_small_walltorch"
+"origin" "114 1770 35"
+}
+// entity 199
+{
+"classname" "light_torch_small_walltorch"
+"origin" "760 1942 225"
+}
+// entity 200
+{
+"classname" "light_torch_small_walltorch"
+"origin" "643 1942 225"
+}
+// entity 201
+{
+"classname" "light_torch_small_walltorch"
+"origin" "534 1942 225"
+}
+// entity 202
+{
+"classname" "light_torch_small_walltorch"
+"origin" "457 2337 211"
+}
+// entity 203
+{
+"classname" "light_torch_small_walltorch"
+"origin" "748 2332 213"
+}
+// entity 204
+{
+"classname" "light_torch_small_walltorch"
+"origin" "457 2469 211"
+}
+// entity 205
+{
+"classname" "light_torch_small_walltorch"
+"origin" "748 2463 213"
+}
+// entity 206
+{
+"classname" "light"
+"origin" "267 2395 195"
+"angle" "270"
+}
+// entity 207
+{
+"classname" "light"
+"origin" "267 2395 75"
+"angle" "270"
+}
+// entity 208
+{
+"classname" "light"
+"origin" "955 2395 75"
+"angle" "270"
+}
+// entity 209
+{
+"classname" "light"
+"origin" "963 2395 195"
+"angle" "270"
+}
+// entity 210
+{
+"classname" "light"
+"origin" "611 2750 371"
+"light" "450"
+}
+// entity 211
+{
+"classname" "light"
+"origin" "899 2750 371"
+"light" "450"
+}
+// entity 212
+{
+"classname" "light"
+"origin" "323 2750 371"
+"light" "450"
+}
+// entity 213
+{
+"classname" "light"
+"origin" "323 2206 371"
+"light" "450"
+}
+// entity 214
+{
+"classname" "light"
+"origin" "611 2390 371"
+"light" "450"
+}
+// entity 215
+{
+"classname" "light"
+"origin" "899 2230 371"
+"light" "450"
+}
+// entity 216
+{
+"classname" "light"
+"origin" "1048 2632 464"
+}
+// entity 217
+{
+"classname" "light"
+"origin" "352 2632 464"
+}
+// entity 218
+{
+"classname" "light"
+"origin" "141 2900 115"
+"angle" "270"
+}
+// entity 219
+{
+"classname" "light"
+"origin" "1136 2904 96"
+}
+// entity 220
+{
+"classname" "light_torch_small_walltorch"
+"origin" "452 2990 84"
+}
+// entity 221
+{
+"classname" "light_torch_small_walltorch"
+"origin" "574 2990 84"
+}
+// entity 222
+{
+"classname" "light"
+"origin" "787 2682 80"
+"angle" "270"
+}
+// entity 223
+{
+"classname" "light"
+"origin" "704 2852 80"
+"angle" "270"
+}
+// entity 224
+{
+"classname" "light"
+"origin" "947 2682 80"
+"angle" "270"
+}
+// entity 225
+{
+"classname" "light"
+"origin" "1147 2587 75"
+"angle" "270"
+}
+// entity 226
+{
+"classname" "light"
+"origin" "731 2539 75"
+"angle" "270"
+}
+// entity 227
+{
+"classname" "light"
+"origin" "699 2491 75"
+"angle" "270"
+}
+// entity 228
+{
+"classname" "light"
+"origin" "483 2491 75"
+"angle" "270"
+}
+// entity 229
+{
+"classname" "light"
+"origin" "483 2275 75"
+"angle" "270"
+}
+// entity 230
+{
+"classname" "light"
+"origin" "699 2307 75"
+"angle" "270"
+}
+// entity 231
+{
+"classname" "light"
+"origin" "1175 1956 195"
+"angle" "270"
+}
+// entity 232
+{
+"classname" "light"
+"origin" "959 1956 195"
+"angle" "270"
+}
+// entity 233
+{
+"classname" "light"
+"origin" "144 1496 232"
+}
+// entity 234
+{
+"classname" "light"
+"origin" "96 1504 64"
+}
+// entity 235
+{
+"classname" "light"
+"origin" "1072 1656 96"
+}
+// entity 236
+{
+"classname" "light"
+"origin" "1072 1384 88"
+}
+// entity 237
+{
+"classname" "light"
+"origin" "1072 1816 104"
+}
+// entity 238
+{
+"classname" "light"
+"origin" "844 916 120"
+}
