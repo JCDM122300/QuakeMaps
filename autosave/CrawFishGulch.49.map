@@ -3667,3 +3667,29 @@
 "classname" "light"
 "origin" "520 2823 -296"
 }
+// entity 356
+{
+"classname" "item_rockets"
+"origin" "560 768 121"
+}
+// entity 357
+{
+"classname" "item_rockets"
+"origin" "560 592 121"
+}
+// entity 358
+{
+"classname" "item_armor1"
+"origin" "576 686 120"
+"angle" "90"
+}
+// entity 359
+{
+"classname" "item_health"
+"origin" "264 1803 6"
+}
+// entity 360
+{
+"classname" "misc_explobox"
+"origin" "596 2289 5"
+}

@@ -3124,3 +3124,18 @@
 "classname" "light"
 "origin" "176 2840 464"
 }
+// entity 260
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1162 1945 439"
+}
+// entity 261
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1057 1945 439"
+}
+// entity 262
+{
+"classname" "light_torch_small_walltorch"
+"origin" "952 1945 439"
+}

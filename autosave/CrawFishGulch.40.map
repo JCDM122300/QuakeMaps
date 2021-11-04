@@ -2992,5 +2992,25 @@
 // entity 234
 {
 "classname" "light"
-"origin" "208 1632 64"
+"origin" "96 1504 64"
+}
+// entity 235
+{
+"classname" "light"
+"origin" "1072 1656 96"
+}
+// entity 236
+{
+"classname" "light"
+"origin" "1072 1384 88"
+}
+// entity 237
+{
+"classname" "light"
+"origin" "1072 1816 104"
+}
+// entity 238
+{
+"classname" "light"
+"origin" "844 916 120"
 }

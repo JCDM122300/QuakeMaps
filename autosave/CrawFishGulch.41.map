@@ -3012,5 +3012,104 @@
 // entity 238
 {
 "classname" "light"
-"origin" "844 916 120"
+"origin" "844 916 248"
+}
+// entity 239
+{
+"classname" "light"
+"origin" "440 808 200"
+}
+// entity 240
+{
+"classname" "light"
+"origin" "680 992 416"
+}
+// entity 241
+{
+"classname" "light"
+"origin" "440 976 408"
+}
+// entity 242
+{
+"classname" "light"
+"origin" "264 976 408"
+}
+// entity 243
+{
+"classname" "light"
+"origin" "1104 992 416"
+}
+// entity 244
+{
+"classname" "light"
+"origin" "440 616 360"
+"light" "450"
+}
+// entity 245
+{
+"classname" "light"
+"origin" "680 616 360"
+"light" "450"
+}
+// entity 246
+{
+"classname" "light"
+"origin" "272 616 360"
+"light" "450"
+}
+// entity 247
+{
+"classname" "light"
+"origin" "776 262 120"
+}
+// entity 248
+{
+"classname" "light"
+"origin" "1032 262 120"
+}
+// entity 249
+{
+"classname" "light"
+"origin" "992 262 336"
+}
+// entity 250
+{
+"classname" "light"
+"origin" "1096 94 336"
+}
+// entity 251
+{
+"classname" "light"
+"origin" "992 390 336"
+}
+// entity 252
+{
+"classname" "light"
+"origin" "944 616 360"
+"light" "450"
+}
+// entity 253
+{
+"classname" "light"
+"origin" "248 519 120"
+}
+// entity 254
+{
+"classname" "light"
+"origin" "248 519 232"
+}
+// entity 255
+{
+"classname" "light"
+"origin" "136 976 232"
+}
+// entity 256
+{
+"classname" "light"
+"origin" "56 303 120"
+}
+// entity 257
+{
+"classname" "light"
+"origin" "137 990 120"
 }

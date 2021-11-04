@@ -2466,6 +2466,36 @@
 // entity 139
 {
 "classname" "light"
-"origin" "366 1302 627"
+"origin" "350 1286 627"
+"angle" "270"
+}
+// entity 140
+{
+"classname" "light"
+"origin" "1070 1286 627"
+"angle" "270"
+}
+// entity 141
+{
+"classname" "light"
+"origin" "1070 1014 627"
+"angle" "270"
+}
+// entity 142
+{
+"classname" "light"
+"origin" "686 998 627"
+"angle" "270"
+}
+// entity 143
+{
+"classname" "light"
+"origin" "254 998 627"
+"angle" "270"
+}
+// entity 144
+{
+"classname" "light"
+"origin" "630 1782 626"
 "angle" "270"
 }
