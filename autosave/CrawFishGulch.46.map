@@ -1511,6 +1511,15 @@
 ( 320 1105 -312 ) ( 321 1105 -312 ) ( 320 1105 -311 ) wall14_5 [ -1 0 0 0 ] [ 0 0 -1 8 ] 0 1 1
 ( 318 1112 -312 ) ( 318 1112 -311 ) ( 318 1113 -312 ) wall14_5 [ 0 1 0 0 ] [ 0 0 -1 8 ] 0 1 1
 }
+// brush 163
+{
+( 190 703 0 ) ( 190 704 0 ) ( 190 703 1 ) wall4_1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 190 703 0 ) ( 190 703 1 ) ( 191 703 0 ) wall4_1 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 190 703 0 ) ( 191 703 0 ) ( 190 704 0 ) wall4_1 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 384 770 15 ) ( 384 771 15 ) ( 385 770 15 ) wall4_1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 384 770 1 ) ( 385 770 1 ) ( 384 770 2 ) wall4_1 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 384 770 1 ) ( 384 770 2 ) ( 384 771 1 ) wall4_1 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
 }
 // entity 1
 {
@@ -3123,4 +3132,84 @@
 {
 "classname" "light"
 "origin" "176 2840 464"
+}
+// entity 260
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1162 1945 439"
+}
+// entity 261
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1057 1945 439"
+}
+// entity 262
+{
+"classname" "light_torch_small_walltorch"
+"origin" "952 1945 439"
+}
+// entity 263
+{
+"classname" "light_torch_small_walltorch"
+"origin" "54 1244 410"
+}
+// entity 264
+{
+"classname" "light_torch_small_walltorch"
+"origin" "167 1244 410"
+}
+// entity 265
+{
+"classname" "light_torch_small_walltorch"
+"origin" "258 1244 410"
+}
+// entity 266
+{
+"classname" "light_torch_small_walltorch"
+"origin" "946 1084 443"
+}
+// entity 267
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1068 1084 443"
+}
+// entity 268
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1175 1084 443"
+}
+// entity 269
+{
+"classname" "misc_fireball"
+"origin" "600 280 -432"
+}
+// entity 270
+{
+"classname" "misc_fireball"
+"origin" "120 632 -432"
+}
+// entity 271
+{
+"classname" "misc_fireball"
+"origin" "1144 872 -432"
+}
+// entity 272
+{
+"classname" "light_torch_small_walltorch"
+"origin" "524 1088 -228"
+}
+// entity 273
+{
+"classname" "light_torch_small_walltorch"
+"origin" "699 1088 -228"
+}
+// entity 274
+{
+"classname" "misc_explobox2"
+"origin" "259 699 0"
+}
+// entity 275
+{
+"classname" "misc_explobox2"
+"origin" "745 699 0"
 }
